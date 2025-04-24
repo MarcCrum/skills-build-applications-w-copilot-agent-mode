@@ -136,3 +136,6 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOW_ALL_ORIGINS = True
+
+# Added codespace Django REST API endpoint suffix
+CODESPACE_API_SUFFIX = 'https://stunning-spork-xrr5q69wp52665r-8000.app.github.dev'
